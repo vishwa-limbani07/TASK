@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "active": "yes",
+      "location": "Berlin",
+      "age": "22",
+      "occupaction": "hildegard.org",
+      "product": "Solid oak work table",
+      "unitprice": "$800",
+      "quantity": "50",
+      "datesold": "03/15/2014",
+      "status": "Waiting for Pickup",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": "1661970749346",
+      "name": "Luke Peters\t",
+      "age": "22",
+      "occupaction": "Freelance Web Developer\t",
+      "location": "Somerville, MA"
+    },
+    {
+      "id": "1661971481636",
+      "name": "Maxwell Johnson\t",
+      "age": "26\t",
+      "occupaction": "UX Architect & Designer\t",
+      "location": "Arlington, MA"
+    },
+    {
+      "id": "1661971546168",
+      "name": "vishwa limbani",
+      "age": "22",
+      "occupaction": "UX Architect & Designer\t",
+      "location": "Surat"
+    },
+    {
+      "id": "1661972502662",
+      "name": "vishwa limbani",
+      "age": "sdsdd",
+      "occupaction": "sdsd",
+      "location": "Surat"
+    },
+    {
+      "id": "1661973531882",
+      "username": "clickandblink_____",
+      "email": "limbanivishwa@gmail.com",
+      "active": "no"
+    }
+  ]
+}
